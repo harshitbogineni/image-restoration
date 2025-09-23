@@ -11,12 +11,8 @@ The primary tasks handled by this project are:
 - **Image Inpainting**: Reconstructing missing or damaged parts of an image.
 - **Super-Resolution**: Increasing the resolution and detail of a low-resolution image.
 
-## ✨ Results
-The model demonstrates strong performance across different restoration tasks. For example, in super-resolution, it can effectively enhance the detail of a low-resolution MRI scan.
 
-A comparison showing the original low-resolution MRI (left) and the model's high-resolution interpolated output (right).
-
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project on your own machine, follow these steps.
 
